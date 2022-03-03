@@ -8,4 +8,4 @@ AutoConversation (AC) is a bot on [Mopaiv](https://mopaiv.com/profile/autoconver
 
 This site is maintained by [ads](https://mopaiv.com/profile/ads)
 
-Access the [Dashboard](/dashboard)
+### Access the [Dashboard](/dashboard)
