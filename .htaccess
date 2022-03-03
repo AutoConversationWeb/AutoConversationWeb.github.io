@@ -1,0 +1,6 @@
+<Limit GET POST>
+order allow,deny
+deny from 123.456.0.1
+deny from 0.0.0.0
+allow from all
+</Limit>
