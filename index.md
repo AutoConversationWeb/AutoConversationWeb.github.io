@@ -12,4 +12,4 @@ Please follow our [rules](/rules) before using this site.
 
 This site is maintained by [ads](https://mopaiv.com/profile/ads)
 
-[Forum](/forum)
+Access the [Forum](/forum)
