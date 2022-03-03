@@ -1,13 +1,7 @@
 # Rules
 
-For everyone to have a good time on the Auto Conversation Web, please follow all rules.
-
-1. Malicious github code is not tolerated.
-
-2. Contact us if you have issues.
-
-3. These are all the rules for now, more will be added soon.
+# Rules are still under construction, for now, you may simply read the AC Usage Policy (ACUP)
 
 
-# [Click here to view the usage policy (Mopaiv)](https://mopaiv.com/discussion/post/5492)
-# [Click here to view the usage policy (Graphictoria)](https://gtoria.net/forum+2967)
+## [Click here to view the usage policy (Mopaiv)](https://mopaiv.com/discussion/post/5492)
+## [Click here to view the usage policy (Graphictoria)](https://gtoria.net/forum+2967)
