@@ -1,3 +1,6 @@
-Under Construction
+# AutoConversation
+## This is very under construction.
 
-We are still working on this website, come back later!
+#### What is AutoConversation?
+
+AutoConversation (AC) is a bot on [Mopaiv](https://mopaiv.com/profile/autoconversation) and [Graphictoria](https://gtoria.net/user/profile/AutoConversation) that generates automatic realistic conversations.
