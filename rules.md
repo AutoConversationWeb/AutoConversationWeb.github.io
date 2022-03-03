@@ -10,3 +10,4 @@ For everyone to have a good time on the Auto Conversation Web, please follow all
 
 
 # [Click here to view the usage policy (Mopaiv)](https://mopaiv.com/discussion/post/5492)
+# [Click here to view the usage policy (Graphictoria)](https://gtoria.net/forum+2966)
