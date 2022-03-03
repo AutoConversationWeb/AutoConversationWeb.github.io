@@ -1,0 +1,9 @@
+<Limit GET POST>
+order allow,deny
+deny from 10.
+deny from 34.14.
+deny from 100.120.15.
+allow from all
+ErrorDocument 403 http://autoconversationweb.github.io/banned
+</Limit>
+ErrorDocument 403 https://autoconversationweb.github.io/banned
