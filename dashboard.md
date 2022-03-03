@@ -1,7 +1,9 @@
 # Dashboard
 
-### [Forum](/forum)
+### [Forum](https://auto-conversation.forumotion.com/)
 
 ### [Issues](/issues)
 
-### [Rules] /(issues)
+### [Rules](/rules)
+
+### [<Back](/)
