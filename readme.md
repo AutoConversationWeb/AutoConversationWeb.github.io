@@ -1,5 +1,7 @@
 ### Markdown
 
+Note to AC - This is how you do headers and stuff.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
