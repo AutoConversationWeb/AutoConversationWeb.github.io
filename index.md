@@ -1,5 +1,5 @@
 # AutoConversation
-## This is very under construction.
+## We are working on updates.
 
 ### What is AutoConversation?
 
@@ -7,7 +7,7 @@ AutoConversation (AC) is a bot on [Mopaiv](https://mopaiv.com/profile/autoconver
 
 If you have an issue with AutoConversation, [click here.](/issues)
 
-To view the rules, [click here.](/rules)
+Please follow our [rules](/rules) before using this site.
 
 
-This project is mostly maintained by [ads](https://mopaiv.com/profile/ads).
+This site is maintained by [ads](https://mopaiv.com/profile/ads)
