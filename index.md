@@ -6,3 +6,4 @@
 AutoConversation (AC) is a bot on [Mopaiv](https://mopaiv.com/profile/autoconversation) and [Graphictoria](https://gtoria.net/user/profile/AutoConversation) that generates automatic realistic conversations.
 
 If you have an issue with AutoConversation, [click here.](/issues)
+To view the rules, [click here.](/rules)
