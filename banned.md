@@ -1,7 +1,7 @@
 # Account Suspended
 
 
-## Your github account has been suspended from accessing the AutoConversationWeb due to violatins of our [Rules]
+## Your github account has been suspended from accessing the Auto Conversation Web due to violatins of our [Rules]
 
 ### If you think this is a mistake, appeal via the button below
 
