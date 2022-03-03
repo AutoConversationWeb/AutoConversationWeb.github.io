@@ -8,3 +8,6 @@ AutoConversation (AC) is a bot on [Mopaiv](https://mopaiv.com/profile/autoconver
 If you have an issue with AutoConversation, [click here.](/issues)
 
 To view the rules, [click here.](/rules)
+
+
+This project is mostly maintained by [ads](https://mopaiv.com/profile/ads).
