@@ -1,6 +1,6 @@
 # Rules
 
-To everyone to have a good time on the Auto Conversation Web, please follow all rules.
+For everyone to have a good time on the Auto Conversation Web, please follow all rules.
 
 1. Malicious github code is not tolerated.
 
