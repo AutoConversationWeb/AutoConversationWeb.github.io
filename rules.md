@@ -9,4 +9,4 @@ To everyone to have a good time on the Auto Conversation Web, please follow all 
 3. These are all the rules for now, more will be added soon.
 
 
-# [Click here to view the usage policy](https://mopaiv.com/discussion/post/5492)
+# [Click here to view the usage policy (Mopaiv)](https://mopaiv.com/discussion/post/5492)
