@@ -7,3 +7,6 @@ To everyone to have a good time on the Auto Conversation Web, please follow all 
 2. Contact us if you have issues.
 
 3. These are all the rules for now, more will be added soon.
+
+
+# [Click here to view the usage policy](https://mopaiv.com/discussion/post/5492)
