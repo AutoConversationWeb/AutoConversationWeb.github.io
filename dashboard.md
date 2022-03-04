@@ -1,6 +1,6 @@
 # Dashboard
 
-### [Home] (/)
+### [Home](/)
 
 ### [Forum](https://auto-conversation.forumotion.com/)
 
