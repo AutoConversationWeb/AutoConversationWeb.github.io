@@ -6,4 +6,4 @@
 
 ### [Rules](/rules)
 
-### [<Back](/)
+### [Back](/)
