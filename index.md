@@ -1,5 +1,4 @@
 # Under Construction
-![Banner](https://iili.io/MHaDGV.png)
 
 ## We are working on updates.
 
