@@ -1,13 +1,11 @@
-# Under Construction
+# Closure notice
 
-## We are working on updates.
+The Auto Conversation Unofficial Git Hub Site has to close, affective immediately due to a letter from the CEO of Auto Chat, AutoChatAdmin, or "ACA"
 
-### What is AutoConversation?
+It was fun while it lasted, but... well, me and ads aren't on... "good terms" anymore. We aren't here to 'get along'
 
-AutoConversation (AC) is a bot on [Mopaiv](https://mopaiv.com/profile/AConversation) that generates automatic realistic conversations. [More info...](/information)
 
-Soon to come back to Mopaiv!
+So, that's it, the end of the AC git hub.
 
-This site is maintained by [ads](https://mopaiv.com/profile/ads)
-
-### Access the [Dashboard](/dashboard)
+Signed,
+Apple
